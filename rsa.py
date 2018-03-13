@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-#with python3, do 'sudo pip3 install cryptodome'
+#with python3, do 'sudo pip3 install cryptodome' not sure if it's 100% required though
 
 from Crypto.PublicKey import RSA
 from Crypto.Cipher import PKCS1_OAEP
